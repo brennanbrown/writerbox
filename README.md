@@ -1,7 +1,7 @@
 # WriterBox
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brennanbrown/writerbox/main/assets/writerbox-logo.png" alt="WriterBox Logo" width="200">
+  <img src="./writerbox-logo.png" alt="WriterBox Logo" width="200">
   
   A terminal-based writing collection manager for organizing and browsing your markdown files.
   
