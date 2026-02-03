@@ -1,7 +1,7 @@
 # WriterBox
 
 <div align="center">
-  <img src="./writerbox-logo.png" alt="WriterBox Logo" width="200">
+  <img src="./writerbox-logo.png" alt="WriterBox Icon" width="200">
   
   A terminal-based writing collection manager for organizing and browsing your markdown files.
   
@@ -118,7 +118,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Created by [Brennan Brown](https://brennan.day) • [GitHub](https://github.com/brennanbrown) • [Mastodon](https://social.lol/@brennan)
 
-Logo by illustrade from [Needpix](https://www.needpix.com/photo/1174496/) (Public Domain)
+Icon by illustrade from [Needpix](https://www.needpix.com/photo/1174496/) (Public Domain)
 
 ---
 
