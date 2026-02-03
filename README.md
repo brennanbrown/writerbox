@@ -12,15 +12,15 @@
 
 ## ✨ Features
 
-- 🎨 **Beautiful TUI** - A gorgeous terminal interface built with Textual
-- 📁 **Smart Scanning** - Automatically discovers markdown files with recursive scanning
-- 🏷️ **Metadata Support** - Parses YAML frontmatter for categories, tags, and more
-- 📖 **Live Preview** - Markdown syntax highlighting in the preview pane
-- ⌨️ **Keyboard-First** - Full keyboard navigation with intuitive shortcuts
-- 🎯 **Color-Coded** - Visual metadata display with color coding (date, words, time, tags)
-- 🔄 **Seamless Editing** - Open files in your favorite editor and return seamlessly
-- 📊 **Statistics** - Track total files, words, reading time, and categories
-- 🔍 **Sorting Options** - Sort by date, title, or word count
+- **Fun TUI** - A gorgeous terminal interface built with Textual
+- **Smart Scanning** - Auto-discovers markdown files with recursive scanning
+- **Metadata Support** - Parses YAML frontmatter for categories, tags, and more
+- **Live Preview** - Markdown syntax highlighting in the preview pane
+- **Keyboard-First** - Keyboard navigation with shortcuts
+- **Color-Coded** - Visual metadata display with color coding (date, words, time, tags)
+- **Easy Editing** - Open files in your favorite editor and return seamlessly
+- **Statistics** - Track total files, words, reading time, and categories
+- **Sorting Options** - Sort by date, title, or word count
 
 ## 🚀 Quick Start
 
@@ -112,7 +112,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👋 Attribution
 
-Created by [Brennan Brown](https://brennan.day) • [GitHub](https://github.com/brennanbrown) • [Mastodon](https://mastodon.social/@brennan)
+Created by [Brennan Brown](https://brennan.day) • [GitHub](https://github.com/brennanbrown) • [Mastodon](https://social.lol/@brennan)
 
 ---
 
