@@ -10,7 +10,11 @@
   [![Alpha](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/brennanbrown/writerbox)
 </div>
 
-## ✨ Features
+## Screenshot
+
+![WriterBox Screenshot](./writerbox-screenshot.png)
+
+## Features
 
 - **Fun TUI** - A gorgeous terminal interface built with Textual
 - **Smart Scanning** - Auto-discovers markdown files with recursive scanning
@@ -22,7 +26,7 @@
 - **Statistics** - Track total files, words, reading time, and categories
 - **Sorting Options** - Sort by date, title, or word count
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -46,13 +50,13 @@ writerbox --no-recursive
 writerbox --sort word_count
 ```
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.9+
 - A terminal that supports true color (most modern terminals)
 - Your favorite text editor (micro, vim, nano, VS Code, etc.)
 
-## 🎮 Keyboard Shortcuts
+## Keyboard Shortcuts
 
 | Key | Action |
 |-----|--------|
@@ -64,7 +68,7 @@ writerbox --sort word_count
 | `?` | Show help |
 | `q` or `Ctrl+Q` | Quit |
 
-## 📝 File Format
+## File Format
 
 WriterBox works with markdown files that include YAML frontmatter:
 
@@ -81,7 +85,7 @@ date: 2025-01-15
 Your content goes here...
 ```
 
-## 🛠️ Development
+## Development
 
 ```bash
 # Clone the repository
@@ -102,15 +106,15 @@ writerbox --dir sample_writings
 pytest
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
-## 👋 Attribution
+## Attribution
 
 Created by [Brennan Brown](https://brennan.day) • [GitHub](https://github.com/brennanbrown) • [Mastodon](https://social.lol/@brennan)
 
