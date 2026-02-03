@@ -118,7 +118,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Created by [Brennan Brown](https://brennan.day) • [GitHub](https://github.com/brennanbrown) • [Mastodon](https://social.lol/@brennan)
 
-Logo by [illustrade](https://pixabay.com/users/illustrade-2767141/) from [Needpix](https://www.needpix.com/photo/1174496/) (Public Domain)
+Logo by illustrade from [Needpix](https://www.needpix.com/photo/1174496/) (Public Domain)
 
 ---
 
